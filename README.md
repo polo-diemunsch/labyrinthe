@@ -28,7 +28,7 @@ Si vous vous retrouvez bloqué dans un labyrinthe, pas de panique nous avons tou
 
 On retrouve en vert le chemin à suivre et en rose les cases ayant été visitées par l'algo de recherche.
 
-En parlant de cela, l'algorithme utilisé pour la recherche de plus court chemin est **[l'algorithme de A*](https://fr.wikipedia.org/wiki/Algorithme_A*)**.
+En parlant de cela, l'algorithme utilisé pour la recherche de plus court chemin est **[l'algorithme A*](https://fr.wikipedia.org/wiki/Algorithme_A*)**.
 
 Cet outil de résolution de labyrinthe est également utile dans le mode création d'une part pour tester le labyrinthe mais surtout pour vérifier qu'il est bien solvable avant de l'enregistrer.
 
