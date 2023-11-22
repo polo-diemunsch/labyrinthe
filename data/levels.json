@@ -1,0 +1,114 @@
+{
+    "Niveau 0": {
+        "name": "Niveau 0",
+        "width": 11,
+        "height": 6,
+        "image_path": "data/lab_images/Niveau 0.png",
+        "start": [
+            0,
+            0
+        ],
+        "end": [
+            10,
+            5
+        ]
+    },
+    "Niveau 1": {
+        "name": "Niveau 1",
+        "width": 44,
+        "height": 24,
+        "image_path": "data/lab_images/Niveau 1.png",
+        "start": [
+            2,
+            2
+        ],
+        "end": [
+            36,
+            21
+        ]
+    },
+    "Niveau 2": {
+        "name": "Niveau 2",
+        "width": 44,
+        "height": 24,
+        "image_path": "data/lab_images/Niveau 2.png",
+        "start": [
+            2,
+            2
+        ],
+        "end": [
+            35,
+            21
+        ]
+    },
+    "Grotte": {
+        "name": "Grotte",
+        "width": 88,
+        "height": 48,
+        "image_path": "data/lab_images/Grotte.png",
+        "start": [
+            0,
+            0
+        ],
+        "end": [
+            87,
+            47
+        ]
+    },
+    "Grotte High Tech": {
+        "name": "Grotte High Tech",
+        "width": 88,
+        "height": 48,
+        "image_path": "data/lab_images/Grotte High Tech.png",
+        "start": [
+            0,
+            0
+        ],
+        "end": [
+            87,
+            47
+        ]
+    },
+    "Lavaland": {
+        "name": "Lavaland",
+        "width": 22,
+        "height": 12,
+        "image_path": "data/lab_images/Lavaland.png",
+        "start": [
+            0,
+            0
+        ],
+        "end": [
+            21,
+            11
+        ]
+    },
+    "Charlotte aux fraises": {
+        "name": "Charlotte aux fraises",
+        "width": 704,
+        "height": 384,
+        "image_path": "data/lab_images/Charlotte aux fraises.png",
+        "start": [
+            268,
+            94
+        ],
+        "end": [
+            394,
+            244
+        ]
+    },
+    "Demo": {
+        "name": "Demo",
+        "width": 1408,
+        "height": 768,
+        "image_path": "data/lab_images/Demo.png",
+        "start": [
+            44,
+            349
+        ],
+        "end": [
+            1367,
+            403
+        ]
+    }
+}
